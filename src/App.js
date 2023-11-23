@@ -7,62 +7,7 @@ import Statistics from "./components/Statistics";
 
 const App = () => {
   const [showAdd, setShowAdd] = useState(false);
-  const [tips, setTips] = useState([
-    {
-      id: 1,
-      day: "Monday",
-      shiftType: "AM",
-      date: "10/18/2023",
-      sales: 2533,
-      cashTip: 100,
-      creditTip: 400,
-    },
-    {
-      id: 2,
-      day: "Tuesday",
-      shiftType: "PM",
-      date: "10/19/2023",
-      sales: 2221,
-      cashTip: 32,
-      creditTip: 378,
-    },
-    {
-      id: 3,
-      day: "Wednesday",
-      shiftType: "AM",
-      date: "10/20/2023",
-      sales: 1950,
-      cashTip: 100,
-      creditTip: 200,
-    },
-    {
-      id: 4,
-      day: "Thursday",
-      shiftType: "PM",
-      date: "10/21/2023",
-      sales: 2023,
-      cashTip: 0,
-      creditTip: 350,
-    },
-    {
-      id: 5,
-      day: "Friday",
-      shiftType: "PM",
-      date: "10/22/2023",
-      sales: 1560,
-      cashTip: 100,
-      creditTip: 300,
-    },
-    {
-      id: 6,
-      day: "Friday",
-      shiftType: "PM",
-      date: "10/18/2023",
-      sales: 1630,
-      cashTip: 100,
-      creditTip: 400,
-    },
-  ]);
+  const [tips, setTips] = useState([]);
   const [filteredTips, setFilteredTips] = useState([]);
   const [showFiltered, setShowFiltered] = useState(false);
   const [dayFiltered, setDayFiltered] = useState("Filter-by-Day");
