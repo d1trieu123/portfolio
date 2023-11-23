@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.419d0e98.js",
-    "static/js/787.51317744.chunk.js": "/react-gh-pages/static/js/787.51317744.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.419d0e98.js.map": "/react-gh-pages/static/js/main.419d0e98.js.map",
-    "787.51317744.chunk.js.map": "/react-gh-pages/static/js/787.51317744.chunk.js.map"
+    "main.css": "/tipbot2/static/css/main.2abc8a50.css",
+    "main.js": "/tipbot2/static/js/main.416f8fd6.js",
+    "index.html": "/tipbot2/index.html",
+    "main.2abc8a50.css.map": "/tipbot2/static/css/main.2abc8a50.css.map",
+    "main.416f8fd6.js.map": "/tipbot2/static/js/main.416f8fd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.419d0e98.js"
+    "static/css/main.2abc8a50.css",
+    "static/js/main.416f8fd6.js"
   ]
 }
