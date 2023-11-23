@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tipBot/static/css/main.2abc8a50.css",
-    "main.js": "/tipBot/static/js/main.416f8fd6.js",
-    "index.html": "/tipBot/index.html",
-    "main.2abc8a50.css.map": "/tipBot/static/css/main.2abc8a50.css.map",
-    "main.416f8fd6.js.map": "/tipBot/static/js/main.416f8fd6.js.map"
+    "main.css": "/tipbot/static/css/main.2abc8a50.css",
+    "main.js": "/tipbot/static/js/main.416f8fd6.js",
+    "index.html": "/tipbot/index.html",
+    "main.2abc8a50.css.map": "/tipbot/static/css/main.2abc8a50.css.map",
+    "main.416f8fd6.js.map": "/tipbot/static/js/main.416f8fd6.js.map"
   },
   "entrypoints": [
     "static/css/main.2abc8a50.css",
